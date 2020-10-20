@@ -1,5 +1,5 @@
 {
-  "name": "react-and-enzyme",
+  "name": "react-starter",
   "version": "1.0.0",
   "description": "",
   "main": "./src/index.js",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bellcd/react-and-enzyme.git"
+    "url": "git+https://github.com/bellcd/react-starter.git"
   },
   "keywords": [],
   "author": "Christian Bell",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bellcd/react-and-enzyme/issues"
+    "url": "https://github.com/bellcd/react-starter/issues"
   },
-  "homepage": "https://github.com/bellcd/react-and-enzyme#readme",
+  "homepage": "https://github.com/bellcd/react-starter#readme",
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
     "babel-loader": "^8.1.0",
