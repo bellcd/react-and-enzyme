@@ -4,7 +4,7 @@ import Todos from './Todos';
 
 class App extends React.Component {
   state = {
-    value: '',
+    value: 'default',
     todos: [
       {
         text: ''
